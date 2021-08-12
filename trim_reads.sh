@@ -1,7 +1,7 @@
 ##!/bin/bash
 
 #trim nanopore reads using porechop
-#porechop -i data/P7741_minion.fastq -o trimmed_reads/P7741_minion.fastq --format fastq -t 4
+#porechop -i data/ERR022075_minion.fastq -o trimmed_reads/ERR022075_minion.fastq --format fastq -t 4
 
 
 

@@ -1,4 +1,4 @@
-name: bacterial-genomics-tutorial
+name: Escherichia-coli-k12-Genome-Analysis
 channels:
   - conda-forge
   - bioconda
