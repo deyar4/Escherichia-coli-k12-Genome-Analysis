@@ -1,6 +1,6 @@
 # Escherichia-coli-k12-Genome-Analysis
 
-# Download and install anaconda(version 3 recommended)
+## Download and install anaconda(version 3 recommended)
 
 ### Add channels
 
