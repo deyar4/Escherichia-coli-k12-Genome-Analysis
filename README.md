@@ -71,3 +71,7 @@ https://www.ebi.ac.uk/ena/browser/view/ERX008638?show=reads
 ### Step 4: Perform QC on the trimmed reads
 
 ``` ./qc_trimmed_reads.sh```
+
+### Step 5: Perform Assembly on the Trimmed reads
+
+``` ./assembly.sh```
